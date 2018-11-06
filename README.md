@@ -1,2 +1,2 @@
-# mobile_gizi
+# Mobile Gizi
 Smart Gizi
